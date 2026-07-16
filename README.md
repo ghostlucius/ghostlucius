@@ -9,22 +9,17 @@
 
 </div>
 
----
+## Hi, I'm ghostlucius! 👋
 
-## Professional Introduction
+I work in cybersecurity governance, risk, and compliance.
 
-Focused on governance, assurance, regulatory alignment, and structured risk management in environments where clarity, accountability, and control maturity matter.
+This profile is where I share selected projects, practical tools, and areas I work on.
 
-This profile is designed to present a concise, professional overview for recruiters and hiring teams.
+## About Me
 
----
-
-## Current Focus
-
-- Cybersecurity governance and operating model alignment
-- Risk, control, and compliance program support
-- Policy, process, and documentation improvement
-- Readiness for audits, assessments, and regulatory requirements
+- I work on cybersecurity governance and GRC topics
+- I am interested in risk, compliance, and security operations
+- I use technology to support practical, structured problem solving
 
 ---
 
