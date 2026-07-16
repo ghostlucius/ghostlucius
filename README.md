@@ -41,7 +41,7 @@
 ## Technology Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,docker" alt="Linux, Python, and Docker icons" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,grafana,gcp,digitalocean" alt="Linux, Python, Docker, Grafana, Google Cloud, and DigitalOcean icons" />
 </p>
 
 <p>
@@ -52,6 +52,9 @@
 - Linux
 - Python
 - Docker
+- Grafana
+- Google Cloud
+- DigitalOcean
 - Agentic AI tools and workflows, including Codex and Claude
 - Synology
 
