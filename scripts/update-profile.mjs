@@ -38,7 +38,9 @@ async function main() {
       "utf8",
     );
 
-    nextReadme = replaceSection(nextReadme, "latestArticles", latestArticles);
+    if (latestArticles) {
+      nextReadme = replaceSection(nextReadme, "latestArticles", latestArticles);
+    }
     nextReadme = replaceSection(nextReadme, "statistics", buildStatisticsSection(githubData.user));
     nextReadme = replaceSection(nextReadme, "recentActivity", await buildRecentActivitySection());
     nextReadme = replaceSection(nextReadme, "latestRepos", buildLatestRepositoriesSection(githubData.user.repositories.nodes));
@@ -285,7 +287,7 @@ async function buildLatestArticlesSection() {
 
     const feed = await response.text();
     if (!response.ok) {
-      return "- Latest articles are temporarily unavailable.";
+      return null;
     }
 
     const items = [...feed.matchAll(/<item>([\s\S]*?)<\/item>/g)]
@@ -293,7 +295,7 @@ async function buildLatestArticlesSection() {
       .map((match) => match[1]);
 
     if (items.length === 0) {
-      return "- No recent articles available right now.";
+      return null;
     }
 
     return items
@@ -307,9 +309,9 @@ async function buildLatestArticlesSection() {
         return `- [${title}](${link})${pubDate ? ` · ${pubDate}` : ""}`;
       })
       .filter(Boolean)
-      .join("\n");
+      .join("\n") || null;
   } catch {
-    return "- Latest articles are temporarily unavailable.";
+    return null;
   }
 }
 

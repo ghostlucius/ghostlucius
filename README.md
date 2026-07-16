@@ -20,7 +20,8 @@
 - Read more of my articles on [Privacy Evolution](https://privacyevolution.substack.com/)
 - Latest articles:
 <!-- START:latest-articles -->
-- Latest articles are temporarily unavailable.
+- [Unused Software Is Still an Attack Surface: What the DAEMON Tools Incident Taught Me](https://privacyevolution.substack.com/p/unused-software-is-still-an-attack) · Jun 16, 2026
+- [Securing Payment Data in a Digital World: A Guide to PCI DSS](https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital) · Jun 1, 2025
 <!-- END:latest-articles -->
 
 ---
