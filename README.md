@@ -46,6 +46,15 @@ This profile is designed to present a concise, professional overview for recruit
 
 ## Technology Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,python,docker" alt="Linux, Python, and Docker icons" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Codex%20%7C%20Claude-1f2937?style=flat-square" alt="Agentic AI badge" />
+  <img src="https://img.shields.io/badge/Synology-Self--Hosted%20Platform-374151?style=flat-square" alt="Synology badge" />
+</p>
+
 - Linux
 - Python
 - Docker
