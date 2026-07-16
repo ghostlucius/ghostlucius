@@ -32,7 +32,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital">
-        <img src="https://substackcdn.com/image/fetch/$s_!xR1g!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2f9f9d4-e247-43e8-bf2b-b0b99b8c9734_1536x1024.png" alt="Securing Payment Data in a Digital World: A Guide to PCI DSS" />
+        <img src="https://substackcdn.com/image/fetch/$s_!64Ct!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F628a19c1-29f8-44ed-be0a-a77489da3a64_1024x1024.png" alt="Securing Payment Data in a Digital World: A Guide to PCI DSS" />
       </a>
       <br />
       <a href="https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital"><strong>Securing Payment Data in a Digital World: A Guide to PCI DSS</strong></a>

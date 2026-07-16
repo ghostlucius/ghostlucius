@@ -298,30 +298,55 @@ async function buildLatestArticlesSection() {
       return null;
     }
 
-    const articles = items
-      .map((item) => {
+    const articles = await Promise.all(
+      items.map(async (item) => {
         const title = decodeXmlText(extractFeedTag(item, "title"));
         const link = decodeXmlText(extractFeedTag(item, "link"));
         const pubDate = formatDate(extractFeedTag(item, "pubDate"));
-        const imageUrl = decodeXmlText(extractFeedEnclosureUrl(item));
+        const imageUrl = (await fetchArticlePreviewImage(link)) || decodeXmlText(extractFeedEnclosureUrl(item));
         if (!title || !link) {
           return null;
         }
         return { title, link, pubDate, imageUrl };
-      })
-      .filter(Boolean);
+      }),
+    );
 
-    if (articles.length === 0) {
+    const validArticles = articles.filter(Boolean);
+
+    if (validArticles.length === 0) {
       return null;
     }
 
-    const cells = articles
+    const cells = validArticles
       .map((article) => buildArticlePreviewCell(article))
       .join("\n");
 
     return `<table>\n  <tr>\n${cells}\n  </tr>\n</table>`;
   } catch {
     return null;
+  }
+}
+
+async function fetchArticlePreviewImage(link) {
+  if (!link) {
+    return "";
+  }
+
+  try {
+    const response = await fetch(link, {
+      headers: {
+        "User-Agent": `${USERNAME}-profile-updater`,
+      },
+    });
+
+    if (!response.ok) {
+      return "";
+    }
+
+    const html = await response.text();
+    return extractMetaContent(html, "property", "og:image") || extractMetaContent(html, "name", "twitter:image");
+  } catch {
+    return "";
   }
 }
 
@@ -366,6 +391,15 @@ function decodeXmlText(value) {
 function extractFeedEnclosureUrl(item) {
   const enclosureMatch = item.match(/<enclosure[^>]*url="([^"]+)"[^>]*>/i);
   return enclosureMatch ? enclosureMatch[1].trim() : "";
+}
+
+function extractMetaContent(html, attributeName, attributeValue) {
+  const pattern = new RegExp(
+    `<meta[^>]*${attributeName}=["']${escapeRegExp(attributeValue)}["'][^>]*content=["']([^"']+)["'][^>]*>`,
+    "i",
+  );
+  const match = html.match(pattern);
+  return match ? decodeXmlText(match[1].trim()) : "";
 }
 
 function escapeHtml(value) {
