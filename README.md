@@ -5,18 +5,13 @@
   <img src="https://img.shields.io/badge/Security-%26%20Assurance-1f2937?style=for-the-badge&logoColor=white" alt="Security and Assurance badge" />
 
   <p><strong>Cybersecurity Governance &amp; GRC Consultant</strong></p>
-  <p>Helping organizations align security, risk, and compliance with business objectives.</p>
+  <p>IT Manager, Privacy Professional, and Auditor focused on cybersecurity governance and GRC.</p>
 
 </div>
 
 ## About Me
 
-- IT Manager
-- Privacy Professional
-- Auditor
-- I work on cybersecurity governance and GRC topics
-- I am interested in risk, compliance, and security operations
-- I use technology to support practical, structured problem solving
+- I work across IT, privacy, auditing, and cybersecurity governance.
 
 ---
 
