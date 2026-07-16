@@ -2,7 +2,6 @@
 
   <img src="https://img.shields.io/badge/Cybersecurity-Governance-0f172a?style=for-the-badge&logoColor=white" alt="Cybersecurity Governance badge" />
   <img src="https://img.shields.io/badge/Risk-%26%20Compliance-111827?style=for-the-badge&logoColor=white" alt="Risk and Compliance badge" />
-  <img src="https://img.shields.io/badge/Recruiter-Ready-1f2937?style=for-the-badge&logoColor=white" alt="Recruiter Ready badge" />
 
   <h1>ghostlucius</h1>
   <p><strong>Cybersecurity Governance &amp; GRC Consultant</strong></p>
