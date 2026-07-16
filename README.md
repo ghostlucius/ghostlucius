@@ -1,5 +1,6 @@
 # ghostlucius
 
+
 ## Professional Introduction
 
 Cybersecurity Governance & GRC Consultant focused on helping organizations align security, risk, and compliance activities with business objectives.
