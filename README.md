@@ -62,6 +62,10 @@
   <img src="https://img.shields.io/badge/Synology-Self--Hosted%20Platform-374151?style=flat-square" alt="Synology badge" />
   <img src="https://img.shields.io/badge/DigitalOcean-Cloud-0ea5e9?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean badge" />
   <img src="https://img.shields.io/badge/n8n-Automation-ef6c00?style=flat-square&logo=n8n&logoColor=white" alt="n8n badge" />
+  <img src="https://img.shields.io/badge/ComfyUI-Workflow%20UI-111827?style=flat-square" alt="ComfyUI badge" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-Image%20Generation-1d4ed8?style=flat-square" alt="Stable Diffusion badge" />
+  <img src="https://img.shields.io/badge/LM%20Studio-Local%20LLMs-2563eb?style=flat-square" alt="LM Studio badge" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20Inference-0f172a?style=flat-square" alt="Ollama badge" />
   <img src="https://img.shields.io/badge/Proxmox-Virtualization-e57000?style=flat-square" alt="Proxmox badge" />
   <img src="https://img.shields.io/badge/Suricata-Network%20Security-c2410c?style=flat-square" alt="Suricata badge" />
   <img src="https://img.shields.io/badge/ISO%2027001-Security%20Framework-0f172a?style=flat-square" alt="ISO 27001 badge" />
