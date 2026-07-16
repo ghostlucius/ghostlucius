@@ -9,17 +9,11 @@
 
 </div>
 
-## Hi, I'm ghostlucius! 👋
+## IT Manager
 
-I work in cybersecurity governance, risk, and compliance.
+## Privacy Professional
 
-This profile is where I share selected projects, practical tools, and areas I work on.
-
-## About Me
-
-- I work on cybersecurity governance and GRC topics
-- I am interested in risk, compliance, and security operations
-- I use technology to support practical, structured problem solving
+## Auditor
 
 ---
 
