@@ -24,6 +24,7 @@
 ## Metrics
 
 ![GitHub metrics](https://raw.githubusercontent.com/ghostlucius/ghostlucius/main/assets/metrics-classic.svg)
+![GitHub isocalendar](https://raw.githubusercontent.com/ghostlucius/ghostlucius/main/assets/metrics-isocalendar.svg)
 
 ---
 
@@ -59,6 +60,8 @@
   <img src="https://img.shields.io/badge/ISO%2027001-Security%20Framework-0f172a?style=flat-square" alt="ISO 27001 badge" />
   <img src="https://img.shields.io/badge/NIST-Cybersecurity-1e3a8a?style=flat-square" alt="NIST badge" />
   <img src="https://img.shields.io/badge/GDPR-Privacy%20Compliance-065f46?style=flat-square" alt="GDPR badge" />
+  <img src="https://img.shields.io/badge/Google%20Chrome-Browser-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Google Chrome badge" />
+  <img src="https://img.shields.io/badge/Firefox-Browser-374151?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Firefox badge" />
 </p>
 
 - Linux
@@ -79,6 +82,8 @@
 - ISO 27001
 - NIST
 - GDPR
+- Chrome
+- Firefox
 
 ---
 
