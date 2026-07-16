@@ -108,15 +108,3 @@
 <!-- START:latest-repos -->
 - [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
-
----
-
-## Teaching & Training
-
-- Teaching and training experience to be added
-
----
-
-## Languages
-
-- Languages to be added
