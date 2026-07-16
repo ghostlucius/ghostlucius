@@ -38,16 +38,6 @@
 
 ---
 
-## Governance & Compliance
-
-- Governance frameworks and control environments
-- Risk management and compliance oversight
-- Policy, standard, and procedure development
-- Internal audit and external assessment support
-- Regulatory and contractual requirement mapping
-
----
-
 ## Technology Stack
 
 <p>
