@@ -2,8 +2,8 @@
 
   <img src="https://img.shields.io/badge/Cybersecurity-Governance-0f172a?style=for-the-badge&logoColor=white" alt="Cybersecurity Governance badge" />
   <img src="https://img.shields.io/badge/Risk-%26%20Compliance-111827?style=for-the-badge&logoColor=white" alt="Risk and Compliance badge" />
+  <img src="https://img.shields.io/badge/Security-%26%20Assurance-1f2937?style=for-the-badge&logoColor=white" alt="Security and Assurance badge" />
 
-  <h1>ghostlucius</h1>
   <p><strong>Cybersecurity Governance &amp; GRC Consultant</strong></p>
   <p>Helping organizations align security, risk, and compliance with business objectives.</p>
 
@@ -75,11 +75,27 @@ This profile is designed to present a concise, professional overview for recruit
 
 ## Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Portfolio-Placeholder-111827?style=flat-square" alt="Featured projects placeholder badge" />
-</p>
+<a href="https://github.com/ghostlucius/Governance-Risk-Compliance-Toolbox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlucius&repo=Governance-Risk-Compliance-Toolbox&theme=transparent&hide_border=true&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa" alt="Governance Risk Compliance Toolbox repository card" />
+</a>
+<a href="https://github.com/ghostlucius/cf7-international-phone-prefix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlucius&repo=cf7-international-phone-prefix&theme=transparent&hide_border=true&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa" alt="CF7 International Phone Prefix repository card" />
+</a>
+<a href="https://github.com/ghostlucius/VideoFixer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlucius&repo=VideoFixer&theme=transparent&hide_border=true&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa" alt="VideoFixer repository card" />
+</a>
 
-- Featured projects will be added here
+- `Governance-Risk-Compliance-Toolbox`: Curated repository of privacy, governance, data protection, and cybersecurity references for practical research and program support.
+- `cf7-international-phone-prefix`: WordPress plugin that adds international phone selection and normalizes submitted numbers to E.164 for downstream CRM and automation workflows.
+- `VideoFixer`: Lightweight Windows utility built to simplify video repair workflows through an accessible interface around `ffmpeg`.
+
+---
+
+## Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghostlucius&show_icons=true&hide_border=true&theme=transparent&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa&rank_icon=github" alt="GitHub statistics card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostlucius&layout=compact&hide_border=true&theme=transparent&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa" alt="Top languages card" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostlucius&bg_color=00000000&color=cbd5e1&line=60a5fa&point=93c5fd&area=true&hide_border=true" alt="GitHub activity graph" />
 
 ---
 
