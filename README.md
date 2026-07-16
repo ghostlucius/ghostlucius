@@ -44,10 +44,13 @@ This profile is designed to present a concise, professional overview for recruit
 
 ---
 
-## Technologies & Tools
+## Technology Stack
 
-- GRC platforms and documentation tools to be added
-- Security, collaboration, and reporting tools to be added
+- Linux
+- Python
+- Docker
+- Agentic AI tools and workflows, including Codex and Claude
+- Synology
 
 ---
 
@@ -95,14 +98,6 @@ This profile is designed to present a concise, professional overview for recruit
 <!-- START:latest-repos -->
 - [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
-
----
-
-## Spotify
-
-<!-- START:spotify -->
-- Spotify integration is not configured yet. See `PROFILE_SETUP.md`.
-<!-- END:spotify -->
 
 ---
 

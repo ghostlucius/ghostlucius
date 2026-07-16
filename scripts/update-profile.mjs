@@ -10,15 +10,10 @@ const ASSETS_DIR = path.join(ROOT, "assets");
 const ACTIVITY_GRAPH_PATH = path.join(ASSETS_DIR, "activity-graph.svg");
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
-const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
-const SPOTIFY_REFRESH_TOKEN = process.env.SPOTIFY_REFRESH_TOKEN;
-
 const SECTION_MARKERS = {
   statistics: ["<!-- START:statistics -->", "<!-- END:statistics -->"],
   recentActivity: ["<!-- START:recent-activity -->", "<!-- END:recent-activity -->"],
   latestRepos: ["<!-- START:latest-repos -->", "<!-- END:latest-repos -->"],
-  spotify: ["<!-- START:spotify -->", "<!-- END:spotify -->"],
 };
 
 const FEATURED_REPOS = new Set([
@@ -44,9 +39,6 @@ async function main() {
     nextReadme = replaceSection(nextReadme, "statistics", buildStatisticsSection(githubData.user));
     nextReadme = replaceSection(nextReadme, "recentActivity", await buildRecentActivitySection());
     nextReadme = replaceSection(nextReadme, "latestRepos", buildLatestRepositoriesSection(githubData.user.repositories.nodes));
-    nextReadme = replaceSection(nextReadme, "spotify", await buildSpotifySection());
-  } else if (MODE === "spotify") {
-    nextReadme = replaceSection(nextReadme, "spotify", await buildSpotifySection());
   } else {
     throw new Error(`Unsupported PROFILE_UPDATE_MODE: ${MODE}`);
   }
@@ -278,89 +270,6 @@ function buildLatestRepositoriesSection(repositories) {
       return `- [${repo.name}](${repo.url})${language} — ${description}`;
     })
     .join("\n");
-}
-
-async function buildSpotifySection() {
-  if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) {
-    return "- Spotify integration is not configured yet. See `PROFILE_SETUP.md`.";
-  }
-
-  try {
-    const accessToken = await getSpotifyAccessToken();
-    const nowPlayingResponse = await spotifyRequest(
-      "https://api.spotify.com/v1/me/player/currently-playing",
-      accessToken,
-    );
-
-    if (nowPlayingResponse.status === 200) {
-      const data = await nowPlayingResponse.json();
-      if (data?.is_playing && data?.item) {
-        return buildSpotifyLine("Now playing", data.item);
-      }
-    }
-
-    if (nowPlayingResponse.status !== 204 && nowPlayingResponse.status !== 200 && nowPlayingResponse.status !== 404) {
-      return "- Spotify integration is configured, but current playback is temporarily unavailable.";
-    }
-
-    const recentResponse = await spotifyRequest(
-      "https://api.spotify.com/v1/me/player/recently-played?limit=1",
-      accessToken,
-    );
-
-    if (recentResponse.status === 200) {
-      const data = await recentResponse.json();
-      const item = data?.items?.[0]?.track;
-      if (item) {
-        return buildSpotifyLine("Last played", item);
-      }
-    }
-
-    if (recentResponse.status === 403) {
-      return "- Spotify integration is configured, but the token is missing the `user-read-recently-played` scope.";
-    }
-
-    return "- Spotify integration is configured, but no recent playback data is available right now.";
-  } catch (error) {
-    return `- Spotify integration is configured, but refresh failed: ${error.message}`;
-  }
-}
-
-async function getSpotifyAccessToken() {
-  const auth = Buffer.from(`${SPOTIFY_CLIENT_ID}:${SPOTIFY_CLIENT_SECRET}`).toString("base64");
-  const response = await fetch("https://accounts.spotify.com/api/token", {
-    method: "POST",
-    headers: {
-      Authorization: `Basic ${auth}`,
-      "Content-Type": "application/x-www-form-urlencoded",
-    },
-    body: new URLSearchParams({
-      grant_type: "refresh_token",
-      refresh_token: SPOTIFY_REFRESH_TOKEN,
-    }),
-  });
-
-  const data = await response.json();
-  if (!response.ok || !data.access_token) {
-    throw new Error(data.error || "token refresh failed");
-  }
-
-  return data.access_token;
-}
-
-async function spotifyRequest(url, accessToken) {
-  return fetch(url, {
-    headers: {
-      Authorization: `Bearer ${accessToken}`,
-    },
-  });
-}
-
-function buildSpotifyLine(label, item) {
-  const artists = item.artists?.map((artist) => artist.name).join(", ") || "Unknown artist";
-  const url = item.external_urls?.spotify || "https://open.spotify.com/";
-  const album = item.album?.name ? ` from *${item.album.name}*` : "";
-  return `- ${label}: [${item.name}](${url}) by ${artists}${album}.`;
 }
 
 function buildActivityGraphSvg(calendar) {
