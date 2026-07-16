@@ -26,13 +26,6 @@
 
 ---
 
-## Metrics
-
-![GitHub metrics](https://raw.githubusercontent.com/ghostlucius/ghostlucius/main/assets/metrics-classic.svg)
-![GitHub isocalendar](https://raw.githubusercontent.com/ghostlucius/ghostlucius/main/assets/metrics-isocalendar.svg)
-
----
-
 ## Certifications
 
 <p>
@@ -119,3 +112,10 @@
 <!-- START:latest-repos -->
 - [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
+
+---
+
+## Metrics
+
+![GitHub metrics](https://raw.githubusercontent.com/ghostlucius/ghostlucius/main/assets/metrics-classic.svg)
+![GitHub isocalendar](https://raw.githubusercontent.com/ghostlucius/ghostlucius/main/assets/metrics-isocalendar.svg)
