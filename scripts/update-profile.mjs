@@ -298,21 +298,50 @@ async function buildLatestArticlesSection() {
       return null;
     }
 
-    return items
+    const articles = items
       .map((item) => {
         const title = decodeXmlText(extractFeedTag(item, "title"));
         const link = decodeXmlText(extractFeedTag(item, "link"));
         const pubDate = formatDate(extractFeedTag(item, "pubDate"));
+        const imageUrl = decodeXmlText(extractFeedEnclosureUrl(item));
         if (!title || !link) {
           return null;
         }
-        return `- [${title}](${link})${pubDate ? ` · ${pubDate}` : ""}`;
+        return { title, link, pubDate, imageUrl };
       })
-      .filter(Boolean)
-      .join("\n") || null;
+      .filter(Boolean);
+
+    if (articles.length === 0) {
+      return null;
+    }
+
+    const cells = articles
+      .map((article) => buildArticlePreviewCell(article))
+      .join("\n");
+
+    return `<table>\n  <tr>\n${cells}\n  </tr>\n</table>`;
   } catch {
     return null;
   }
+}
+
+function buildArticlePreviewCell(article) {
+  const image = article.imageUrl
+    ? [
+        `      <a href="${article.link}">`,
+        `        <img src="${article.imageUrl}" alt="${escapeHtml(article.title)}" />`,
+        "      </a>",
+        "      <br />",
+      ].join("\n")
+    : "";
+
+  const date = article.pubDate ? `\n      <br />\n      <sub>${escapeHtml(article.pubDate)}</sub>` : "";
+
+  return [
+    '    <td width="50%" valign="top">',
+    image + `      <a href="${article.link}"><strong>${escapeHtml(article.title)}</strong></a>` + date,
+    "    </td>",
+  ].join("\n");
 }
 
 function extractFeedTag(item, tagName) {
@@ -332,6 +361,20 @@ function decodeXmlText(value) {
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'");
+}
+
+function extractFeedEnclosureUrl(item) {
+  const enclosureMatch = item.match(/<enclosure[^>]*url="([^"]+)"[^>]*>/i);
+  return enclosureMatch ? enclosureMatch[1].trim() : "";
+}
+
+function escapeHtml(value) {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
 function buildActivityGraphSvg(calendar) {

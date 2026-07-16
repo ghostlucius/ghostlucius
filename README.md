@@ -18,10 +18,29 @@
 ## Articles
 
 - Read more of my articles on [Privacy Evolution](https://privacyevolution.substack.com/)
-- Latest articles:
 <!-- START:latest-articles -->
-- [Unused Software Is Still an Attack Surface: What the DAEMON Tools Incident Taught Me](https://privacyevolution.substack.com/p/unused-software-is-still-an-attack) · Jun 16, 2026
-- [Securing Payment Data in a Digital World: A Guide to PCI DSS](https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital) · Jun 1, 2025
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://privacyevolution.substack.com/p/unused-software-is-still-an-attack">
+        <img src="https://substackcdn.com/image/fetch/$s_!jTMw!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bb53550-8f96-41b5-8912-4b553e319cad_1536x1024.png" alt="Unused Software Is Still an Attack Surface: What the DAEMON Tools Incident Taught Me" />
+      </a>
+      <br />
+      <a href="https://privacyevolution.substack.com/p/unused-software-is-still-an-attack"><strong>Unused Software Is Still an Attack Surface: What the DAEMON Tools Incident Taught Me</strong></a>
+      <br />
+      <sub>Jun 16, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital">
+        <img src="https://substackcdn.com/image/fetch/$s_!xR1g!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2f9f9d4-e247-43e8-bf2b-b0b99b8c9734_1536x1024.png" alt="Securing Payment Data in a Digital World: A Guide to PCI DSS" />
+      </a>
+      <br />
+      <a href="https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital"><strong>Securing Payment Data in a Digital World: A Guide to PCI DSS</strong></a>
+      <br />
+      <sub>Jun 1, 2025</sub>
+    </td>
+  </tr>
+</table>
 <!-- END:latest-articles -->
 
 ---
