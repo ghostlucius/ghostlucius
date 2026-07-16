@@ -53,12 +53,7 @@
 ## Technology Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,grafana,gcp,digitalocean,n8n,github,bash,powershell,postgresql" alt="Linux, Python, Docker, Grafana, Google Cloud, DigitalOcean, n8n, GitHub, Bash, PowerShell, and PostgreSQL icons" />
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/openai/ffffff" alt="Codex icon" height="42" />
-  <img src="https://cdn.simpleicons.org/anthropic/ffffff" alt="Claude icon" height="42" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,grafana,gcp,github,bash,powershell,postgresql" alt="Linux, Python, Docker, Grafana, Google Cloud, GitHub, Bash, PowerShell, and PostgreSQL icons" />
 </p>
 
 <p>
