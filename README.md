@@ -57,6 +57,11 @@
 </p>
 
 <p>
+  <img src="https://cdn.simpleicons.org/openai/ffffff" alt="Codex icon" height="42" />
+  <img src="https://cdn.simpleicons.org/anthropic/ffffff" alt="Claude icon" height="42" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Agentic%20AI-Codex%20%7C%20Claude-1f2937?style=flat-square" alt="Agentic AI badge" />
   <img src="https://img.shields.io/badge/Synology-Self--Hosted%20Platform-374151?style=flat-square" alt="Synology badge" />
   <img src="https://img.shields.io/badge/DigitalOcean-Cloud-0ea5e9?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean badge" />
