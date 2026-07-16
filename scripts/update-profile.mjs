@@ -231,10 +231,7 @@ function formatEvent(event) {
       return `- ${createdAt}: ${capitalize(action)} issue [#${issue.number}](${issue.html_url}) in [${repoName}](${repoUrl}).`;
     }
     case "CreateEvent": {
-      if (isProfileRepo) return null;
-      if (!repoName || !repoUrl) return null;
-      const refType = event.payload?.ref_type || "resource";
-      return `- ${createdAt}: Created ${refType} in [${repoName}](${repoUrl}).`;
+      return null;
     }
     case "ReleaseEvent": {
       if (isProfileRepo) return null;
