@@ -81,11 +81,10 @@ This profile is designed to present a concise, professional overview for recruit
 ## Recent Activity
 
 <!-- START:recent-activity -->
-- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
-- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
-- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
-- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
-- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
+- Jul 16, 2026: Created branch in [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
+- Jun 30, 2026: Published release [v1.2.4](https://github.com/ghostlucius/VideoFixer/releases/tag/v1.2.4) for [ghostlucius/VideoFixer](https://github.com/ghostlucius/VideoFixer).
+- Jun 30, 2026: Published release [v1.2.3](https://github.com/ghostlucius/VideoFixer/releases/tag/v1.2.3) for [ghostlucius/VideoFixer](https://github.com/ghostlucius/VideoFixer).
+- Jun 30, 2026: Published release [v1.2.2](https://github.com/ghostlucius/VideoFixer/releases/tag/v1.2.2) for [ghostlucius/VideoFixer](https://github.com/ghostlucius/VideoFixer).
 <!-- END:recent-activity -->
 
 ---
