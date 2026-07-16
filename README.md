@@ -25,7 +25,19 @@ This profile is where I share selected projects, practical tools, and areas I wo
 
 ## Certifications
 
-- Certifications to be added
+<p>
+  <img src="https://img.shields.io/badge/IAPP-CIPP%2FE-0f172a?style=flat-square" alt="CIPP/E badge" />
+  <img src="https://img.shields.io/badge/IAPP-CIPM-1f2937?style=flat-square" alt="CIPM badge" />
+  <img src="https://img.shields.io/badge/Europrivacy-Auditor-374151?style=flat-square" alt="Europrivacy Auditor badge" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-1d4ed8?style=flat-square" alt="Google Cybersecurity badge" />
+  <img src="https://img.shields.io/badge/Google-IT%20Support-2563eb?style=flat-square" alt="Google IT Support badge" />
+</p>
+
+- CIPP/E (Certified Information Privacy Professional/Europe) — International Association of Privacy Professionals (IAPP)
+- CIPM (Certified Information Privacy Manager) — International Association of Privacy Professionals (IAPP)
+- Europrivacy Auditor
+- Google Cybersecurity Professional Certificate — Google
+- Google IT Support Professional Certificate — Google
 
 ---
 
