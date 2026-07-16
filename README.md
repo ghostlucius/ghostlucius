@@ -9,11 +9,14 @@
 
 </div>
 
-## IT Manager
+## About Me
 
-## Privacy Professional
-
-## Auditor
+- IT Manager
+- Privacy Professional
+- Auditor
+- I work on cybersecurity governance and GRC topics
+- I am interested in risk, compliance, and security operations
+- I use technology to support practical, structured problem solving
 
 ---
 
