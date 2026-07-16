@@ -210,6 +210,7 @@ function formatEvent(event) {
   switch (event.type) {
     case "PushEvent": {
       const commits = event.payload?.commits?.length || 0;
+      if (commits === 0) return null;
       if (!repoName || !repoUrl) return null;
       return `- ${createdAt}: Pushed ${commits} commit${commits === 1 ? "" : "s"} to [${repoName}](${repoUrl}).`;
     }
