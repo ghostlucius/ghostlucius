@@ -11,6 +11,7 @@ const ACTIVITY_GRAPH_PATH = path.join(ASSETS_DIR, "activity-graph.svg");
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const SECTION_MARKERS = {
+  latestArticles: ["<!-- START:latest-articles -->", "<!-- END:latest-articles -->"],
   statistics: ["<!-- START:statistics -->", "<!-- END:statistics -->"],
   recentActivity: ["<!-- START:recent-activity -->", "<!-- END:recent-activity -->"],
   latestRepos: ["<!-- START:latest-repos -->", "<!-- END:latest-repos -->"],
@@ -29,6 +30,7 @@ async function main() {
 
   if (MODE === "all") {
     const githubData = await fetchGitHubProfileData();
+    const latestArticles = await buildLatestArticlesSection();
     await mkdir(ASSETS_DIR, { recursive: true });
     await writeFile(
       ACTIVITY_GRAPH_PATH,
@@ -36,6 +38,7 @@ async function main() {
       "utf8",
     );
 
+    nextReadme = replaceSection(nextReadme, "latestArticles", latestArticles);
     nextReadme = replaceSection(nextReadme, "statistics", buildStatisticsSection(githubData.user));
     nextReadme = replaceSection(nextReadme, "recentActivity", await buildRecentActivitySection());
     nextReadme = replaceSection(nextReadme, "latestRepos", buildLatestRepositoriesSection(githubData.user.repositories.nodes));
@@ -270,6 +273,63 @@ function buildLatestRepositoriesSection(repositories) {
       return `- [${repo.name}](${repo.url})${language} — ${description}`;
     })
     .join("\n");
+}
+
+async function buildLatestArticlesSection() {
+  try {
+    const response = await fetch("https://privacyevolution.substack.com/feed", {
+      headers: {
+        "User-Agent": `${USERNAME}-profile-updater`,
+      },
+    });
+
+    const feed = await response.text();
+    if (!response.ok) {
+      return "- Latest articles are temporarily unavailable.";
+    }
+
+    const items = [...feed.matchAll(/<item>([\s\S]*?)<\/item>/g)]
+      .slice(0, 2)
+      .map((match) => match[1]);
+
+    if (items.length === 0) {
+      return "- No recent articles available right now.";
+    }
+
+    return items
+      .map((item) => {
+        const title = decodeXmlText(extractFeedTag(item, "title"));
+        const link = decodeXmlText(extractFeedTag(item, "link"));
+        const pubDate = formatDate(extractFeedTag(item, "pubDate"));
+        if (!title || !link) {
+          return null;
+        }
+        return `- [${title}](${link})${pubDate ? ` · ${pubDate}` : ""}`;
+      })
+      .filter(Boolean)
+      .join("\n");
+  } catch {
+    return "- Latest articles are temporarily unavailable.";
+  }
+}
+
+function extractFeedTag(item, tagName) {
+  const cdataMatch = item.match(new RegExp(`<${tagName}><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tagName}>`, "i"));
+  if (cdataMatch) {
+    return cdataMatch[1].trim();
+  }
+
+  const plainMatch = item.match(new RegExp(`<${tagName}>([\\s\\S]*?)<\\/${tagName}>`, "i"));
+  return plainMatch ? plainMatch[1].trim() : "";
+}
+
+function decodeXmlText(value) {
+  return value
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'");
 }
 
 function buildActivityGraphSvg(calendar) {
