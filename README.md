@@ -23,7 +23,7 @@
 
 ## Metrics
 
-![GitHub metrics](./assets/metrics-classic.svg)
+![GitHub metrics](https://raw.githubusercontent.com/ghostlucius/ghostlucius/main/assets/metrics-classic.svg)
 
 ---
 
@@ -48,7 +48,7 @@
 ## Technology Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,grafana,gcp,digitalocean" alt="Linux, Python, Docker, Grafana, Google Cloud, and DigitalOcean icons" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,grafana,gcp,digitalocean,n8n" alt="Linux, Python, Docker, Grafana, Google Cloud, DigitalOcean, and n8n icons" />
 </p>
 
 <p>
@@ -62,6 +62,7 @@
 - Grafana
 - Google Cloud
 - DigitalOcean
+- n8n
 - Agentic AI tools and workflows, including Codex and Claude
 - Synology
 
