@@ -179,7 +179,7 @@ async function buildRecentActivitySection() {
     return "- GitHub activity is not available because `GITHUB_TOKEN` is missing.";
   }
 
-  const response = await fetch(`https://api.github.com/users/${USERNAME}/events/public?per_page=30`, {
+  const response = await fetch(`https://api.github.com/users/${USERNAME}/events/public?per_page=100`, {
     headers: {
       Authorization: `Bearer ${GITHUB_TOKEN}`,
       Accept: "application/vnd.github+json",
@@ -206,35 +206,45 @@ function formatEvent(event) {
   const repoName = event.repo?.name;
   const repoUrl = repoName ? `https://github.com/${repoName}` : null;
   const createdAt = formatDate(event.created_at);
+  const isProfileRepo = repoName === `${USERNAME}/${USERNAME}`;
 
   switch (event.type) {
     case "PushEvent": {
+      if (isProfileRepo) return null;
       const commits = event.payload?.commits?.length || 0;
       if (commits === 0) return null;
       if (!repoName || !repoUrl) return null;
       return `- ${createdAt}: Pushed ${commits} commit${commits === 1 ? "" : "s"} to [${repoName}](${repoUrl}).`;
     }
     case "PullRequestEvent": {
+      if (isProfileRepo) return null;
       const action = event.payload?.action;
       const pr = event.payload?.pull_request;
       if (!pr?.html_url || !repoName) return null;
       return `- ${createdAt}: ${capitalize(action)} pull request [#${pr.number}](${pr.html_url}) in [${repoName}](${repoUrl}).`;
     }
     case "IssuesEvent": {
+      if (isProfileRepo) return null;
       const action = event.payload?.action;
       const issue = event.payload?.issue;
       if (!issue?.html_url || !repoName) return null;
       return `- ${createdAt}: ${capitalize(action)} issue [#${issue.number}](${issue.html_url}) in [${repoName}](${repoUrl}).`;
     }
     case "CreateEvent": {
+      if (isProfileRepo) return null;
       if (!repoName || !repoUrl) return null;
       const refType = event.payload?.ref_type || "resource";
       return `- ${createdAt}: Created ${refType} in [${repoName}](${repoUrl}).`;
     }
     case "ReleaseEvent": {
+      if (isProfileRepo) return null;
       const release = event.payload?.release;
       if (!release?.html_url || !repoName) return null;
       return `- ${createdAt}: Published release [${release.tag_name}](${release.html_url}) for [${repoName}](${repoUrl}).`;
+    }
+    case "WatchEvent": {
+      if (!repoName || !repoUrl) return null;
+      return `- ${createdAt}: Starred [${repoName}](${repoUrl}).`;
     }
     default:
       return null;
