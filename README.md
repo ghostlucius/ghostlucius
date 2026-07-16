@@ -59,6 +59,8 @@
 <p>
   <img src="https://img.shields.io/badge/Agentic%20AI-Codex%20%7C%20Claude-1f2937?style=flat-square" alt="Agentic AI badge" />
   <img src="https://img.shields.io/badge/Synology-Self--Hosted%20Platform-374151?style=flat-square" alt="Synology badge" />
+  <img src="https://img.shields.io/badge/DigitalOcean-Cloud-0ea5e9?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean badge" />
+  <img src="https://img.shields.io/badge/n8n-Automation-ef6c00?style=flat-square&logo=n8n&logoColor=white" alt="n8n badge" />
   <img src="https://img.shields.io/badge/Proxmox-Virtualization-e57000?style=flat-square" alt="Proxmox badge" />
   <img src="https://img.shields.io/badge/Suricata-Network%20Security-c2410c?style=flat-square" alt="Suricata badge" />
   <img src="https://img.shields.io/badge/ISO%2027001-Security%20Framework-0f172a?style=flat-square" alt="ISO 27001 badge" />
@@ -67,27 +69,6 @@
   <img src="https://img.shields.io/badge/Google%20Chrome-Browser-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Google Chrome badge" />
   <img src="https://img.shields.io/badge/Firefox-Browser-374151?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Firefox badge" />
 </p>
-
-- Linux
-- Python
-- Docker
-- Grafana
-- Google Cloud
-- DigitalOcean
-- n8n
-- GitHub
-- Bash
-- PowerShell
-- PostgreSQL
-- Agentic AI tools and workflows, including Codex and Claude
-- Synology
-- Proxmox
-- Suricata
-- ISO 27001
-- NIST
-- GDPR
-- Chrome
-- Firefox
 
 ---
 
