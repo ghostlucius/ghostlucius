@@ -48,12 +48,17 @@
 ## Technology Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,grafana,gcp,digitalocean,n8n" alt="Linux, Python, Docker, Grafana, Google Cloud, DigitalOcean, and n8n icons" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,grafana,gcp,digitalocean,n8n,github,bash,powershell,postgresql" alt="Linux, Python, Docker, Grafana, Google Cloud, DigitalOcean, n8n, GitHub, Bash, PowerShell, and PostgreSQL icons" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Agentic%20AI-Codex%20%7C%20Claude-1f2937?style=flat-square" alt="Agentic AI badge" />
   <img src="https://img.shields.io/badge/Synology-Self--Hosted%20Platform-374151?style=flat-square" alt="Synology badge" />
+  <img src="https://img.shields.io/badge/Proxmox-Virtualization-e57000?style=flat-square" alt="Proxmox badge" />
+  <img src="https://img.shields.io/badge/Suricata-Network%20Security-c2410c?style=flat-square" alt="Suricata badge" />
+  <img src="https://img.shields.io/badge/ISO%2027001-Security%20Framework-0f172a?style=flat-square" alt="ISO 27001 badge" />
+  <img src="https://img.shields.io/badge/NIST-Cybersecurity-1e3a8a?style=flat-square" alt="NIST badge" />
+  <img src="https://img.shields.io/badge/GDPR-Privacy%20Compliance-065f46?style=flat-square" alt="GDPR badge" />
 </p>
 
 - Linux
@@ -63,8 +68,17 @@
 - Google Cloud
 - DigitalOcean
 - n8n
+- GitHub
+- Bash
+- PowerShell
+- PostgreSQL
 - Agentic AI tools and workflows, including Codex and Claude
 - Synology
+- Proxmox
+- Suricata
+- ISO 27001
+- NIST
+- GDPR
 
 ---
 
