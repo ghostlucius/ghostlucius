@@ -67,11 +67,11 @@ This profile is designed to present a concise, professional overview for recruit
 ## Statistics
 
 <!-- START:statistics -->
-- Public repositories: updating...
-- Followers: updating...
-- Following: updating...
-- Account created: updating...
-- Top public repository languages by repository count: updating...
+- Public repositories: 5
+- Followers: 2
+- Following: 9
+- Account created: October 2021
+- Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1)
 
 ![Contribution activity graph](./assets/activity-graph.svg)
 <!-- END:statistics -->
@@ -81,7 +81,11 @@ This profile is designed to present a concise, professional overview for recruit
 ## Recent Activity
 
 <!-- START:recent-activity -->
-- Recent public activity will appear here after the workflow runs.
+- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
+- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
+- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
+- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
+- Jul 16, 2026: Pushed 0 commits to [ghostlucius/ghostlucius](https://github.com/ghostlucius/ghostlucius).
 <!-- END:recent-activity -->
 
 ---
@@ -89,7 +93,7 @@ This profile is designed to present a concise, professional overview for recruit
 ## Latest Repositories
 
 <!-- START:latest-repos -->
-- Latest public repositories will appear here after the workflow runs.
+- [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
 
 ---
