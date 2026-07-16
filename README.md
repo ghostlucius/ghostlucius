@@ -26,6 +26,12 @@
 
 ---
 
+## Metrics
+
+![GitHub metrics](./assets/metrics-classic.svg)
+
+---
+
 ## Certifications
 
 <p>
