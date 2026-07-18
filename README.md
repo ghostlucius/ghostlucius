@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
-- Jul 14, 2026: Starred [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard).
-- Jul 6, 2026: Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP).
-- Jul 6, 2026: Starred [atlantsecurity/atlant-harden](https://github.com/atlantsecurity/atlant-harden).
-- Jul 1, 2026: Starred [frappe/lms](https://github.com/frappe/lms).
-- Jun 30, 2026: Published release [v1.2.4](https://github.com/ghostlucius/VideoFixer/releases/tag/v1.2.4) for [ghostlucius/VideoFixer](https://github.com/ghostlucius/VideoFixer).
+- Jul 17, 2026: Starred [jasonxtn/Argus](https://github.com/jasonxtn/Argus).
+- Jul 17, 2026: Starred [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla).
+- Jul 17, 2026: Starred [kittendevv/Invio](https://github.com/kittendevv/Invio).
+- Jul 17, 2026: Starred [infinition/Bjorn](https://github.com/infinition/Bjorn).
+- Jul 17, 2026: Starred [angristan/netclode](https://github.com/angristan/netclode).
 <!-- END:recent-activity -->
 
 ---
