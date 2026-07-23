@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Jul 23, 2026: Starred [adiambassador/caelestia-aw](https://github.com/adiambassador/caelestia-aw).
+- Jul 23, 2026: Starred [pctrade/end4-pC](https://github.com/pctrade/end4-pC).
+- Jul 22, 2026: Starred [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates).
 - Jul 20, 2026: Starred [fujiapple852/trippy](https://github.com/fujiapple852/trippy).
 - Jul 20, 2026: Starred [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM).
-- Jul 19, 2026: Starred [khast3x/h8mail](https://github.com/khast3x/h8mail).
-- Jul 19, 2026: Starred [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu).
-- Jul 18, 2026: Starred [blinkospace/blinko](https://github.com/blinkospace/blinko).
 <!-- END:recent-activity -->
 
 ---
