@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Jul 23, 2026: Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search).
 - Jul 23, 2026: Starred [adiambassador/caelestia-aw](https://github.com/adiambassador/caelestia-aw).
 - Jul 23, 2026: Starred [pctrade/end4-pC](https://github.com/pctrade/end4-pC).
 - Jul 22, 2026: Starred [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates).
 - Jul 20, 2026: Starred [fujiapple852/trippy](https://github.com/fujiapple852/trippy).
-- Jul 20, 2026: Starred [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM).
 <!-- END:recent-activity -->
 
 ---
