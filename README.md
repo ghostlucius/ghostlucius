@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Jul 27, 2026: Starred [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher).
+- Jul 26, 2026: Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader).
 - Jul 23, 2026: Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search).
 - Jul 23, 2026: Starred [adiambassador/caelestia-aw](https://github.com/adiambassador/caelestia-aw).
 - Jul 23, 2026: Starred [pctrade/end4-pC](https://github.com/pctrade/end4-pC).
-- Jul 22, 2026: Starred [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates).
-- Jul 20, 2026: Starred [fujiapple852/trippy](https://github.com/fujiapple852/trippy).
 <!-- END:recent-activity -->
 
 ---
