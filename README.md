@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Jul 29, 2026: Starred [gnomeria/usbtree](https://github.com/gnomeria/usbtree).
+- Jul 29, 2026: Starred [RaidOwl/homelab-hub](https://github.com/RaidOwl/homelab-hub).
+- Jul 29, 2026: Starred [digimata/quill](https://github.com/digimata/quill).
+- Jul 29, 2026: Starred [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO).
 - Jul 27, 2026: Starred [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher).
-- Jul 26, 2026: Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader).
-- Jul 23, 2026: Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search).
-- Jul 23, 2026: Starred [adiambassador/caelestia-aw](https://github.com/adiambassador/caelestia-aw).
-- Jul 23, 2026: Starred [pctrade/end4-pC](https://github.com/pctrade/end4-pC).
 <!-- END:recent-activity -->
 
 ---
