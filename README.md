@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Jul 30, 2026: Starred [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats).
+- Jul 30, 2026: Starred [moscovium-mc/CloudRip](https://github.com/moscovium-mc/CloudRip).
 - Jul 29, 2026: Starred [gnomeria/usbtree](https://github.com/gnomeria/usbtree).
 - Jul 29, 2026: Starred [RaidOwl/homelab-hub](https://github.com/RaidOwl/homelab-hub).
 - Jul 29, 2026: Starred [digimata/quill](https://github.com/digimata/quill).
-- Jul 29, 2026: Starred [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO).
-- Jul 27, 2026: Starred [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher).
 <!-- END:recent-activity -->
 
 ---
