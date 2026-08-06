@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 5, 2026: Starred [cabinetai/cabinet](https://github.com/cabinetai/cabinet).
 - Jul 30, 2026: Starred [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats).
 - Jul 30, 2026: Starred [moscovium-mc/CloudRip](https://github.com/moscovium-mc/CloudRip).
 - Jul 29, 2026: Starred [gnomeria/usbtree](https://github.com/gnomeria/usbtree).
 - Jul 29, 2026: Starred [RaidOwl/homelab-hub](https://github.com/RaidOwl/homelab-hub).
-- Jul 29, 2026: Starred [digimata/quill](https://github.com/digimata/quill).
 <!-- END:recent-activity -->
 
 ---
