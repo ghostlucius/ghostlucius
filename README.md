@@ -103,9 +103,9 @@
 ## Statistics
 
 <!-- START:statistics -->
-- Public repositories: 5
+- Public repositories: 6
 - Followers: 2
-- Following: 9
+- Following: 10
 - Account created: October 2021
 - Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1)
 
@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
-- Aug 5, 2026: Starred [cabinetai/cabinet](https://github.com/cabinetai/cabinet).
-- Jul 30, 2026: Starred [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats).
-- Jul 30, 2026: Starred [moscovium-mc/CloudRip](https://github.com/moscovium-mc/CloudRip).
-- Jul 29, 2026: Starred [gnomeria/usbtree](https://github.com/gnomeria/usbtree).
-- Jul 29, 2026: Starred [RaidOwl/homelab-hub](https://github.com/RaidOwl/homelab-hub).
+- Aug 6, 2026: Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling).
+- Aug 6, 2026: Starred [apify/crawlee-python](https://github.com/apify/crawlee-python).
+- Aug 6, 2026: Starred [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai).
+- Aug 6, 2026: Starred [daijro/camoufox](https://github.com/daijro/camoufox).
+- Aug 6, 2026: Starred [6abd/horus](https://github.com/6abd/horus).
 <!-- END:recent-activity -->
 
 ---
@@ -129,6 +129,7 @@
 ## Latest Repositories
 
 <!-- START:latest-repos -->
+- [starred-repositories-catalog](https://github.com/ghostlucius/starred-repositories-catalog) — A categorized catalog of useful open-source projects, tools, learning resources, and experiments.
 - [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
 
