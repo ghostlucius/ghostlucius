@@ -104,7 +104,7 @@
 
 <!-- START:statistics -->
 - Public repositories: 6
-- Followers: 2
+- Followers: 3
 - Following: 10
 - Account created: October 2021
 - Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1)
@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 7, 2026: Starred [ossu/computer-science](https://github.com/ossu/computer-science).
+- Aug 7, 2026: Starred [mindmuxai/brain.md](https://github.com/mindmuxai/brain.md).
 - Aug 6, 2026: Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling).
 - Aug 6, 2026: Starred [apify/crawlee-python](https://github.com/apify/crawlee-python).
 - Aug 6, 2026: Starred [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai).
-- Aug 6, 2026: Starred [daijro/camoufox](https://github.com/daijro/camoufox).
-- Aug 6, 2026: Starred [6abd/horus](https://github.com/6abd/horus).
 <!-- END:recent-activity -->
 
 ---
