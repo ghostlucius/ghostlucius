@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 8, 2026: Starred [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr).
 - Aug 7, 2026: Starred [ossu/computer-science](https://github.com/ossu/computer-science).
 - Aug 7, 2026: Starred [mindmuxai/brain.md](https://github.com/mindmuxai/brain.md).
 - Aug 6, 2026: Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling).
 - Aug 6, 2026: Starred [apify/crawlee-python](https://github.com/apify/crawlee-python).
-- Aug 6, 2026: Starred [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai).
 <!-- END:recent-activity -->
 
 ---
