@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 12, 2026: Starred [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit).
+- Aug 12, 2026: Starred [Osmantic/ODS](https://github.com/Osmantic/ODS).
 - Aug 11, 2026: Starred [tachibana-shin/rakuyomi](https://github.com/tachibana-shin/rakuyomi).
 - Aug 10, 2026: Starred [wickenico/WailBrew](https://github.com/wickenico/WailBrew).
 - Aug 10, 2026: Starred [codelitdev/courselit](https://github.com/codelitdev/courselit).
-- Aug 10, 2026: Starred [rixinhahaha/snip](https://github.com/rixinhahaha/snip).
-- Aug 10, 2026: Starred [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid).
 <!-- END:recent-activity -->
 
 ---
