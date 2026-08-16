@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
-- Aug 14, 2026: Starred [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture).
-- Aug 13, 2026: Starred [Gouryella/drip](https://github.com/Gouryella/drip).
-- Aug 13, 2026: Starred [xandemon/developer-icons](https://github.com/xandemon/developer-icons).
-- Aug 13, 2026: Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow).
-- Aug 12, 2026: Starred [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit).
+- Aug 15, 2026: Starred [opendatalab/MinerU-Document-Explorer](https://github.com/opendatalab/MinerU-Document-Explorer).
+- Aug 15, 2026: Starred [Ademking/MD-This-Page](https://github.com/Ademking/MD-This-Page).
+- Aug 15, 2026: Starred [JimmySadek/youtube-fetcher-to-markdown](https://github.com/JimmySadek/youtube-fetcher-to-markdown).
+- Aug 15, 2026: Starred [0xMassi/webclaw](https://github.com/0xMassi/webclaw).
+- Aug 15, 2026: Starred [codexu/note-gen](https://github.com/codexu/note-gen).
 <!-- END:recent-activity -->
 
 ---
