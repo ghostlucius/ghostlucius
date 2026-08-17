@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
-- Aug 15, 2026: Starred [opendatalab/MinerU-Document-Explorer](https://github.com/opendatalab/MinerU-Document-Explorer).
-- Aug 15, 2026: Starred [Ademking/MD-This-Page](https://github.com/Ademking/MD-This-Page).
-- Aug 15, 2026: Starred [JimmySadek/youtube-fetcher-to-markdown](https://github.com/JimmySadek/youtube-fetcher-to-markdown).
-- Aug 15, 2026: Starred [0xMassi/webclaw](https://github.com/0xMassi/webclaw).
-- Aug 15, 2026: Starred [codexu/note-gen](https://github.com/codexu/note-gen).
+- Aug 16, 2026: Starred [booklore-app/booklore](https://github.com/booklore-app/booklore).
+- Aug 16, 2026: Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover).
+- Aug 16, 2026: Starred [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads).
+- Aug 16, 2026: Starred [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui).
+- Aug 16, 2026: Starred [zubair-trabzada/ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude).
 <!-- END:recent-activity -->
 
 ---
