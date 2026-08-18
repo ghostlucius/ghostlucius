@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 17, 2026: Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare).
 - Aug 16, 2026: Starred [booklore-app/booklore](https://github.com/booklore-app/booklore).
 - Aug 16, 2026: Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover).
 - Aug 16, 2026: Starred [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads).
 - Aug 16, 2026: Starred [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui).
-- Aug 16, 2026: Starred [zubair-trabzada/ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude).
 <!-- END:recent-activity -->
 
 ---
