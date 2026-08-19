@@ -103,11 +103,11 @@
 ## Statistics
 
 <!-- START:statistics -->
-- Public repositories: 6
-- Followers: 3
-- Following: 10
+- Public repositories: 7
+- Followers: 5
+- Following: 11
 - Account created: October 2021
-- Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1)
+- Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1), Swift (1)
 
 ![Contribution activity graph](./assets/activity-graph.svg)
 <!-- END:statistics -->
@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 18, 2026: Starred [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering).
+- Aug 18, 2026: Starred [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop).
+- Aug 18, 2026: Starred [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension).
+- Aug 18, 2026: Starred [confident-ai/deepteam](https://github.com/confident-ai/deepteam).
 - Aug 17, 2026: Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare).
-- Aug 16, 2026: Starred [booklore-app/booklore](https://github.com/booklore-app/booklore).
-- Aug 16, 2026: Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover).
-- Aug 16, 2026: Starred [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads).
-- Aug 16, 2026: Starred [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui).
 <!-- END:recent-activity -->
 
 ---
@@ -129,6 +129,7 @@
 ## Latest Repositories
 
 <!-- START:latest-repos -->
+- [hibimekuri](https://github.com/ghostlucius/hibimekuri) · Swift — Hibimekuri — a native macOS himekuri (tear-off calendar) app for daily journaling, with real astronomical almanac detail and a persistent task list, in a minimal paper-and-ink interface.
 - [starred-repositories-catalog](https://github.com/ghostlucius/starred-repositories-catalog) — A categorized catalog of useful open-source projects, tools, learning resources, and experiments.
 - [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
