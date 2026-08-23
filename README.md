@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
-- Aug 21, 2026: Starred [davertor/take-notes](https://github.com/davertor/take-notes).
-- Aug 20, 2026: Starred [HaseebKhalid1507/Myx](https://github.com/HaseebKhalid1507/Myx).
-- Aug 20, 2026: Starred [S-Sigdel/vimhjkl](https://github.com/S-Sigdel/vimhjkl).
-- Aug 20, 2026: Starred [herol3oy/austen](https://github.com/herol3oy/austen).
-- Aug 20, 2026: Starred [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts).
+- Aug 22, 2026: Starred [b1rdmania/legalise](https://github.com/b1rdmania/legalise).
+- Aug 22, 2026: Starred [Vaquill-AI/open-us-law](https://github.com/Vaquill-AI/open-us-law).
+- Aug 22, 2026: Starred [noslegal/taxonomy](https://github.com/noslegal/taxonomy).
+- Aug 22, 2026: Starred [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener).
+- Aug 22, 2026: Starred [jhpyle/docassemble](https://github.com/jhpyle/docassemble).
 <!-- END:recent-activity -->
 
 ---
