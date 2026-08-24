@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 23, 2026: Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi).
 - Aug 22, 2026: Starred [b1rdmania/legalise](https://github.com/b1rdmania/legalise).
 - Aug 22, 2026: Starred [Vaquill-AI/open-us-law](https://github.com/Vaquill-AI/open-us-law).
 - Aug 22, 2026: Starred [noslegal/taxonomy](https://github.com/noslegal/taxonomy).
 - Aug 22, 2026: Starred [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener).
-- Aug 22, 2026: Starred [jhpyle/docassemble](https://github.com/jhpyle/docassemble).
 <!-- END:recent-activity -->
 
 ---
