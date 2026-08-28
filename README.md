@@ -129,8 +129,8 @@
 ## Latest Repositories
 
 <!-- START:latest-repos -->
-- [hibimekuri](https://github.com/ghostlucius/hibimekuri) · Swift — Hibimekuri — a native macOS himekuri (tear-off calendar) app for daily journaling, with real astronomical almanac detail and a persistent task list, in a minimal paper-and-ink interface.
 - [starred-repositories-catalog](https://github.com/ghostlucius/starred-repositories-catalog) — A categorized catalog of useful open-source projects, tools, learning resources, and experiments.
+- [hibimekuri](https://github.com/ghostlucius/hibimekuri) · Swift — Hibimekuri — a native macOS himekuri (tear-off calendar) app for daily journaling, with real astronomical almanac detail and a persistent task list, in a minimal paper-and-ink interface.
 - [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
 
