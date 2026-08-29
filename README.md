@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Aug 28, 2026: Starred [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne).
+- Aug 28, 2026: Starred [openclaw/gogcli](https://github.com/openclaw/gogcli).
 - Aug 27, 2026: Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing).
 - Aug 26, 2026: Starred [KatrielMoses/MailAccess](https://github.com/KatrielMoses/MailAccess).
 - Aug 25, 2026: Starred [andrewyng/openworker](https://github.com/andrewyng/openworker).
-- Aug 23, 2026: Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi).
-- Aug 22, 2026: Starred [b1rdmania/legalise](https://github.com/b1rdmania/legalise).
 <!-- END:recent-activity -->
 
 ---
