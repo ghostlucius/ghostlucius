@@ -104,7 +104,7 @@
 
 <!-- START:statistics -->
 - Public repositories: 7
-- Followers: 5
+- Followers: 4
 - Following: 11
 - Account created: October 2021
 - Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1), Swift (1)
