@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Sep 1, 2026: Published release [v1.0.0-beta.4](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.4) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
+- Sep 1, 2026: Published release [v1.0.0-beta.3](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.3) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
 - Aug 28, 2026: Starred [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne).
 - Aug 28, 2026: Starred [openclaw/gogcli](https://github.com/openclaw/gogcli).
 - Aug 27, 2026: Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing).
-- Aug 26, 2026: Starred [KatrielMoses/MailAccess](https://github.com/KatrielMoses/MailAccess).
-- Aug 25, 2026: Starred [andrewyng/openworker](https://github.com/andrewyng/openworker).
 <!-- END:recent-activity -->
 
 ---
@@ -129,8 +129,8 @@
 ## Latest Repositories
 
 <!-- START:latest-repos -->
-- [starred-repositories-catalog](https://github.com/ghostlucius/starred-repositories-catalog) — A categorized catalog of useful open-source projects, tools, learning resources, and experiments.
 - [hibimekuri](https://github.com/ghostlucius/hibimekuri) · Swift — Hibimekuri — a native macOS himekuri (tear-off calendar) app for daily journaling, with real astronomical almanac detail and a persistent task list, in a minimal paper-and-ink interface.
+- [starred-repositories-catalog](https://github.com/ghostlucius/starred-repositories-catalog) — A categorized catalog of useful open-source projects, tools, learning resources, and experiments.
 - [rock_paper_scissor](https://github.com/ghostlucius/rock_paper_scissor) · JavaScript — No description yet.
 <!-- END:latest-repos -->
 
