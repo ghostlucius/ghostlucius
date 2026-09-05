@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Sep 4, 2026: Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude).
 - Sep 1, 2026: Published release [v1.0.0-beta.4](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.4) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
 - Sep 1, 2026: Published release [v1.0.0-beta.3](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.3) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
 - Aug 28, 2026: Starred [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne).
 - Aug 28, 2026: Starred [openclaw/gogcli](https://github.com/openclaw/gogcli).
-- Aug 27, 2026: Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing).
 <!-- END:recent-activity -->
 
 ---
