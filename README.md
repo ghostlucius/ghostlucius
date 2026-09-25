@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Sep 25, 2026: Starred [madhvantyagi/Gnos](https://github.com/madhvantyagi/Gnos).
 - Sep 20, 2026: Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking).
 - Sep 16, 2026: Starred [latent-spaces/brag](https://github.com/latent-spaces/brag).
 - Sep 11, 2026: Starred [duhubz/Rosetta-Magazine-Researcher](https://github.com/duhubz/Rosetta-Magazine-Researcher).
 - Sep 4, 2026: Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude).
-- Sep 1, 2026: Published release [v1.0.0-beta.4](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.4) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
 <!-- END:recent-activity -->
 
 ---
