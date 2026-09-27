@@ -104,7 +104,7 @@
 
 <!-- START:statistics -->
 - Public repositories: 7
-- Followers: 2
+- Followers: 3
 - Following: 11
 - Account created: October 2021
 - Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1), Swift (1)
@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Sep 26, 2026: Published release [v1.0.0-beta.5](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.5) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
 - Sep 25, 2026: Starred [madhvantyagi/Gnos](https://github.com/madhvantyagi/Gnos).
 - Sep 20, 2026: Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking).
 - Sep 16, 2026: Starred [latent-spaces/brag](https://github.com/latent-spaces/brag).
 - Sep 11, 2026: Starred [duhubz/Rosetta-Magazine-Researcher](https://github.com/duhubz/Rosetta-Magazine-Researcher).
-- Sep 4, 2026: Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude).
 <!-- END:recent-activity -->
 
 ---
