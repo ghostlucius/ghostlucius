@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Oct 4, 2026: Starred [tritant/ComfyUI_MiniMax_H3_Extender](https://github.com/tritant/ComfyUI_MiniMax_H3_Extender).
 - Oct 4, 2026: Starred [pablostanley/yoinks](https://github.com/pablostanley/yoinks).
 - Sep 26, 2026: Published release [v1.0.0-beta.5](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.5) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
 - Sep 25, 2026: Starred [madhvantyagi/Gnos](https://github.com/madhvantyagi/Gnos).
 - Sep 20, 2026: Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking).
-- Sep 16, 2026: Starred [latent-spaces/brag](https://github.com/latent-spaces/brag).
 <!-- END:recent-activity -->
 
 ---
