@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Oct 13, 2026: Starred [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D).
+- Oct 13, 2026: Starred [fathah/hermes-office](https://github.com/fathah/hermes-office).
+- Oct 13, 2026: Starred [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr).
 - Oct 7, 2026: Starred [morluto/rea](https://github.com/morluto/rea).
 - Oct 6, 2026: Starred [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://github.com/rookiestar28/ComfyUI-MiniMaxH3-Studio).
-- Oct 4, 2026: Starred [tritant/ComfyUI_MiniMax_H3_Extender](https://github.com/tritant/ComfyUI_MiniMax_H3_Extender).
-- Oct 4, 2026: Starred [pablostanley/yoinks](https://github.com/pablostanley/yoinks).
-- Sep 26, 2026: Published release [v1.0.0-beta.5](https://github.com/ghostlucius/hibimekuri/releases/tag/v1.0.0-beta.5) for [ghostlucius/hibimekuri](https://github.com/ghostlucius/hibimekuri).
 <!-- END:recent-activity -->
 
 ---
