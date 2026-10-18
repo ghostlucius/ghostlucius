@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Oct 17, 2026: Starred [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp).
 - Oct 13, 2026: Starred [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D).
 - Oct 13, 2026: Starred [fathah/hermes-office](https://github.com/fathah/hermes-office).
 - Oct 13, 2026: Starred [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr).
 - Oct 7, 2026: Starred [morluto/rea](https://github.com/morluto/rea).
-- Oct 6, 2026: Starred [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://github.com/rookiestar28/ComfyUI-MiniMaxH3-Studio).
 <!-- END:recent-activity -->
 
 ---
