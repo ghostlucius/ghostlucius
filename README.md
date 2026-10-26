@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Oct 25, 2026: Starred [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine).
 - Oct 17, 2026: Starred [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp).
 - Oct 13, 2026: Starred [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D).
 - Oct 13, 2026: Starred [fathah/hermes-office](https://github.com/fathah/hermes-office).
 - Oct 13, 2026: Starred [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr).
-- Oct 7, 2026: Starred [morluto/rea](https://github.com/morluto/rea).
 <!-- END:recent-activity -->
 
 ---
