@@ -105,7 +105,7 @@
 <!-- START:statistics -->
 - Public repositories: 7
 - Followers: 4
-- Following: 11
+- Following: 12
 - Account created: October 2021
 - Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1), Swift (1)
 
@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Nov 9, 2026: Starred [m0s4ik/home-companion](https://github.com/m0s4ik/home-companion).
 - Oct 25, 2026: Starred [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine).
 - Oct 17, 2026: Starred [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp).
 - Oct 13, 2026: Starred [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D).
 - Oct 13, 2026: Starred [fathah/hermes-office](https://github.com/fathah/hermes-office).
-- Oct 13, 2026: Starred [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr).
 <!-- END:recent-activity -->
 
 ---
