@@ -117,11 +117,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Nov 10, 2026: Starred [seedds/nxnative](https://github.com/seedds/nxnative).
 - Nov 9, 2026: Starred [m0s4ik/home-companion](https://github.com/m0s4ik/home-companion).
 - Oct 25, 2026: Starred [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine).
 - Oct 17, 2026: Starred [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp).
 - Oct 13, 2026: Starred [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D).
-- Oct 13, 2026: Starred [fathah/hermes-office](https://github.com/fathah/hermes-office).
 <!-- END:recent-activity -->
 
 ---
