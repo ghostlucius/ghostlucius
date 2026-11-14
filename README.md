@@ -22,22 +22,20 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://privacyevolution.substack.com/p/unused-software-is-still-an-attack">
-        <img src="https://substackcdn.com/image/fetch/$s_!jTMw!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bb53550-8f96-41b5-8912-4b553e319cad_1536x1024.png" alt="Unused Software Is Still an Attack Surface: What the DAEMON Tools Incident Taught Me" />
+      <a href="https://privacyevolution.substack.com/p/one-page-a-day-and-six-agents-arguing">
+        <img src="https://substackcdn.com/image/fetch/$s_!jFfz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b1246ed-c98a-44fc-9c13-dff09a33d62d_1800x1200.png" alt="One page a day, and six agents arguing about it" />
       </a>
+      <br />      <a href="https://privacyevolution.substack.com/p/one-page-a-day-and-six-agents-arguing"><strong>One page a day, and six agents arguing about it</strong></a>
       <br />
-      <a href="https://privacyevolution.substack.com/p/unused-software-is-still-an-attack"><strong>Unused Software Is Still an Attack Surface: What the DAEMON Tools Incident Taught Me</strong></a>
-      <br />
-      <sub>Jun 16, 2026</sub>
+      <sub>Sep 26, 2026</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital">
-        <img src="https://substackcdn.com/image/fetch/$s_!64Ct!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F628a19c1-29f8-44ed-be0a-a77489da3a64_1024x1024.png" alt="Securing Payment Data in a Digital World: A Guide to PCI DSS" />
+      <a href="https://privacyevolution.substack.com/p/building-eve-a-private-ai-research">
+        <img src="https://substackcdn.com/image/fetch/$s_!rD-i!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80199fe8-4227-4130-8b9a-8c478e273721_1400x700.png" alt="Building Eve: A Private AI Research Agent for Cybersecurity and Privacy" />
       </a>
+      <br />      <a href="https://privacyevolution.substack.com/p/building-eve-a-private-ai-research"><strong>Building Eve: A Private AI Research Agent for Cybersecurity and Privacy</strong></a>
       <br />
-      <a href="https://privacyevolution.substack.com/p/securing-payment-data-in-a-digital"><strong>Securing Payment Data in a Digital World: A Guide to PCI DSS</strong></a>
-      <br />
-      <sub>Jun 1, 2025</sub>
+      <sub>Aug 28, 2026</sub>
     </td>
   </tr>
 </table>
