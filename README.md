@@ -119,7 +119,6 @@
 - Nov 10, 2026: Starred [seedds/nxnative](https://github.com/seedds/nxnative).
 - Nov 9, 2026: Starred [m0s4ik/home-companion](https://github.com/m0s4ik/home-companion).
 - Oct 25, 2026: Starred [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine).
-- Oct 17, 2026: Starred [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp).
 <!-- END:recent-activity -->
 
 ---
