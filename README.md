@@ -119,7 +119,6 @@
 - Nov 12, 2026: Starred [mattpocock/skills](https://github.com/mattpocock/skills).
 - Nov 10, 2026: Starred [seedds/nxnative](https://github.com/seedds/nxnative).
 - Nov 9, 2026: Starred [m0s4ik/home-companion](https://github.com/m0s4ik/home-companion).
-- Oct 25, 2026: Starred [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine).
 <!-- END:recent-activity -->
 
 ---
