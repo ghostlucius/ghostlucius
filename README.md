@@ -115,10 +115,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Nov 26, 2026: Starred [omacom/omarchy-mac-installer](https://github.com/omacom/omarchy-mac-installer).
+- Nov 26, 2026: Starred [orbat-mapper/orbat-mapper](https://github.com/orbat-mapper/orbat-mapper).
 - Nov 24, 2026: Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo).
 - Nov 12, 2026: Starred [mattpocock/skills](https://github.com/mattpocock/skills).
 - Nov 10, 2026: Starred [seedds/nxnative](https://github.com/seedds/nxnative).
-- Nov 9, 2026: Starred [m0s4ik/home-companion](https://github.com/m0s4ik/home-companion).
 <!-- END:recent-activity -->
 
 ---
