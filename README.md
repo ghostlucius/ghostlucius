@@ -102,7 +102,7 @@
 
 <!-- START:statistics -->
 - Public repositories: 7
-- Followers: 4
+- Followers: 3
 - Following: 12
 - Account created: October 2021
 - Top public repository languages by repository count: JavaScript (2), PHP (1), Python (1), Swift (1)
@@ -115,11 +115,11 @@
 ## Recent Activity
 
 <!-- START:recent-activity -->
+- Nov 27, 2026: Starred [RafJansen-AI/cold-waters-mp](https://github.com/RafJansen-AI/cold-waters-mp).
+- Nov 26, 2026: Starred [YD1RUH/Game_SIGINT](https://github.com/YD1RUH/Game_SIGINT).
 - Nov 26, 2026: Starred [omacom/omarchy-mac-installer](https://github.com/omacom/omarchy-mac-installer).
 - Nov 26, 2026: Starred [orbat-mapper/orbat-mapper](https://github.com/orbat-mapper/orbat-mapper).
 - Nov 24, 2026: Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo).
-- Nov 12, 2026: Starred [mattpocock/skills](https://github.com/mattpocock/skills).
-- Nov 10, 2026: Starred [seedds/nxnative](https://github.com/seedds/nxnative).
 <!-- END:recent-activity -->
 
 ---
